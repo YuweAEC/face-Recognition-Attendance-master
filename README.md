@@ -42,5 +42,3 @@ This project aims to simplify attendance management by utilizing facial recognit
 - Yuvraj Singh
 - Nillotpal Mishra
 - Manwendra Mahato
-
-- 
