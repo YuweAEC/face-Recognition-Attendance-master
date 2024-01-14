@@ -4,7 +4,7 @@ Automate attendance tracking using facial recognition technology.
 
 ## Overview
 
-This project aims to simplify attendance management by utilizing facial recognition. It captures and matches individuals' faces, records their presence, provides real-time monitoring, generates attendance reports, and seamlessly integrates with other systems. The system ensures accuracy, security, and privacy compliance.
+This project simplifies attendance management by leveraging facial recognition. It captures and matches individuals' faces, records their presence, provides real-time monitoring, generates attendance reports, and seamlessly integrates with other systems. The system ensures accuracy, security, and privacy compliance.
 
 ## Features
 
