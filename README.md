@@ -90,4 +90,20 @@ Thanks goes to these wonderful people 💜
     </td>
     <td align="center">
       <a href="https://github.com/ghost-2362003">
-        <img src="https://avatars.githubusercontent.com/u/112298
+        <img src="https://avatars.githubusercontent.com/u/112298880?v=4" width="100px;" alt=""/>
+        <br /><sub><b>Shubhojyoti Das</b></sub>
+      </a>
+      <br /><a title="Code">💻</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/arghadipmanna101">
+        <img src="https://avatars.githubusercontent.com/u/130065095?v=4" width="100px;" alt=""/>
+        <br /><sub><b>Arghadip Manna</b></sub>
+      </a>
+      <br /><a title="Code">💻</a>
+    </td>
+  </tr>
+</table>
+
+Check out the cool [License](LICENSE) for this repository.
+
