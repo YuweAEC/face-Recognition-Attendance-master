@@ -1,40 +1,30 @@
-# Face Recognition Attendance Master
-
 <div align="center">
- <p>
+  <p>
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=YuweAEC%2Fface-Recognition-Attendance-master%20&countColor=%23263759&style=flat)
-![GitHub forks](https://img.shields.io/github/forks/YuweAEC/face-Recognition-Attendance-master
-)
-![GitHub Repo stars](https://img.shields.io/github/stars/YuweAEC/face-Recognition-Attendance-master
-)
-![GitHub contributors](https://img.shields.io/github/contributors/YuweAEC/face-Recognition-Attendance-master
-)
-![GitHub last commit](https://img.shields.io/github/last-commit/YuweAEC/face-Recognition-Attendance-master
-)
-![GitHub repo size](https://img.shields.io/github/repo-size/YuweAEC/face-Recognition-Attendance-master
-)
-![Github](https://img.shields.io/github/license/YuweAEC/face-Recognition-Attendance-master
-)
-![GitHub issues](https://img.shields.io/github/issues/YuweAEC/face-Recognition-Attendance-master
-)
-![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/YuweAEC/face-Recognition-Attendance-master
-)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/YuweAEC/face-Recognition-Attendance-master
-)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/YuweAEC/face-Recognition-Attendance-master
-)
+![GitHub forks](https://img.shields.io/github/forks/YuweAEC/face-Recognition-Attendance-master)
+![GitHub Repo stars](https://img.shields.io/github/stars/YuweAEC/face-Recognition-Attendance-master)
+![GitHub contributors](https://img.shields.io/github/contributors/YuweAEC/face-Recognition-Attendance-master)
+![GitHub last commit](https://img.shields.io/github/last-commit/YuweAEC/face-Recognition-Attendance-master)
+![GitHub repo size](https://img.shields.io/github/repo-size/YuweAEC/face-Recognition-Attendance-master)
+![Github](https://img.shields.io/github/license/YuweAEC/face-Recognition-Attendance-master)
+![GitHub issues](https://img.shields.io/github/issues/YuweAEC/face-Recognition-Attendance-master)
+![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/YuweAEC/face-Recognition-Attendance-master)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/YuweAEC/face-Recognition-Attendance-master)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/YuweAEC/face-Recognition-Attendance-master)
 
- </p>
- </div>
+  </p>
+</div>
 
+# Face Recognition Attendance Master
 
 Automate attendance tracking using facial recognition technology.
 
 <div align="center">
-<img src="https://hertasecurity.com/wp-content/uploads/AdobeStock_200771621-Converted-e1645719874954.png" width="100%"></div>
+  <img src="https://hertasecurity.com/wp-content/uploads/AdobeStock_200771621-Converted-e1645719874954.png" width="100%">
+</div>
 
 ## Overview
 
@@ -77,10 +67,7 @@ Thanks goes to these wonderful people 💜
 <table>
   <tr>
     <td align="center"><a href="https://github.com/YuweAEC"><img src="https://avatars.githubusercontent.com/u/117657410?v=4" width="100px;" alt=""/><br /><sub><b>Yuvraj Singh</b></sub></a><br /><a href="#maintenance-Tlazypanda" title="Maintenance">🚧✍️🖥️</a></td>
-     <td align="center"><a href="https://github.com/manwendra-mm"><img src="https://avatars.githubusercontent.com/u/118678113?v=4" width="100px;" alt=""/><br /><sub><b>Manwendra Mahato</b></sub></a><br /><a title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/manwendra-mm"><img src="https://avatars.githubusercontent.com/u/118678113?v=4" width="100px;" alt=""/><br /><sub><b>Manwendra Mahato</b></sub></a><br /><a title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/nillmishra"><img src="https://avatars.githubusercontent.com/u/111221455?v=4" width="100px;" alt=""/><br /><sub><b>Nillotpal Mishra</b></sub></a><br /><a title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/ghost-2362003"><img src="https://avatars.githubusercontent.com/u/112298880?v=4" width="100px;" alt=""/><br /><sub><b>Shubhojyoti Das</b></sub></a><br /><a title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/arghadipmanna101"><img src="https://avatars.githubusercontent.com/u/130065095?v=4" width="100px;" alt=""/><br /><sub><b>Arghadip Manna</b></sub></a><br /><a  title="Code">💻</a></td>
-</td>
-  </tr>
-  </table>
+    <td align="center"><a href="https://github.com/arghadipmanna101"><img src="https://avatars.githubusercontent.com/u/130065095?v=4" width="100px;" alt=""/><br /><sub><b>Arghad
