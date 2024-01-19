@@ -1,5 +1,36 @@
 # Face Recognition Attendance Master
 
+<div align="center">
+ <p>
+
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=YuweAEC%2Fface-Recognition-Attendance-master%20&countColor=%23263759&style=flat)
+![GitHub forks](https://img.shields.io/github/forks/YuweAEC/face-Recognition-Attendance-master
+)
+![GitHub Repo stars](https://img.shields.io/github/stars/YuweAEC/face-Recognition-Attendance-master
+)
+![GitHub contributors](https://img.shields.io/github/contributors/YuweAEC/face-Recognition-Attendance-master
+)
+![GitHub last commit](https://img.shields.io/github/last-commit/YuweAEC/face-Recognition-Attendance-master
+)
+![GitHub repo size](https://img.shields.io/github/repo-size/YuweAEC/face-Recognition-Attendance-master
+)
+![Github](https://img.shields.io/github/license/YuweAEC/face-Recognition-Attendance-master
+)
+![GitHub issues](https://img.shields.io/github/issues/YuweAEC/face-Recognition-Attendance-master
+)
+![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/YuweAEC/face-Recognition-Attendance-master
+)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/YuweAEC/face-Recognition-Attendance-master
+)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/YuweAEC/face-Recognition-Attendance-master
+)
+
+ </p>
+ </div>
+
+
 Automate attendance tracking using facial recognition technology.
 
 <div align="center">
