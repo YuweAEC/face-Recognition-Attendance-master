@@ -4,7 +4,7 @@ import os
 import numpy as np
 from datetime import datetime
 
-path = "Face-Recognition-Attendance-master\\Person_Images"
+path = "Face-Recognition-Attendance-master\Person_Images"
 images = []
 classNames = []
 mylist = os.listdir(path)
