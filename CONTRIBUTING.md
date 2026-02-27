@@ -1,3 +1,4 @@
+
 # Contribution Guidelines
 
 Welcome to the [Face-Recognition-Attendance-Master] repository! We appreciate your interest in contributing to our open-source project. Please take a moment to review the following guidelines to ensure a smooth and collaborative contribution process.
